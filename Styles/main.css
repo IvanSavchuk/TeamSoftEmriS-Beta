@@ -20,8 +20,12 @@
     width: 100%
 }
 
-.card-title, .card-header {
+.card-title, .card-header, #ceo {
     font-family: "Black Ops One";
+}
+
+.card-text {
+    color: 	#FFFFFF;
 }
 
 .text-muted {
